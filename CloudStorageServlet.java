@@ -63,9 +63,6 @@ public class CloudStorageServlet extends HttpServlet {
 					resp.getWriter().println("File uploading done successfully");
 				}
 				
-				resp.getWriter().println(
-						"READ:" + storage.readTextFileOnly(fileName));
-
 				log.info(this.getServletName() + " ended....");
 
 			}
