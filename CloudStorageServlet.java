@@ -1,5 +1,5 @@
 //
-//  APPLICATION LAYER
+//  BUSINESS LOGIC LAYER
 //
 package edu.bits.cloud.ec3;
 
